@@ -1,0 +1,10 @@
+Package: com.smartiphone7.ios7icons
+Name: iOS 7 Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Feel a bit nostalgic with iOS 7 icons on your brand new iOS 14!
+Author: Smartiphone7 
+Maintainer: Smartiphone7
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+|
